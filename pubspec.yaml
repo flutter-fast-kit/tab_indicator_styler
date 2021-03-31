@@ -1,8 +1,8 @@
-name: tab_indicator_styler
+name: flutter_tab_indicator_styler
 description: Add beautiful and trending tab indicators directly to your default Flutter TabBar
-version: 1.0.0
-homepage: https://github.com/adar2378
-repository: https://github.com/adar2378/tab_indicator_styler
+version: 2.0.0
+homepage: https://github.com/flutter-fast-kit
+repository: https://github.com/flutter-fast-kit/tab_indicator_styler
 
 environment:
   sdk: '>=2.12.0 <3.0.0'

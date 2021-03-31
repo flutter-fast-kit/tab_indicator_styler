@@ -1,8 +1,13 @@
-<p align="center">
-  <img width="460"  src="https://github.com/adar2378/tab_indicator_styler/raw/master/images/tab_styler_logo.png">
-</p>
+# flutter_tab_indicator_styler
 
-<a href = "https://pub.dev/packages/tab_indicator_styler"><img src="https://img.shields.io/pub/v/tab_indicator_styler"></a>
+[![Pub](https://img.shields.io/pub/v/flutter_tab_indicator_styler.svg)](https://pub.dartlang.org/packages/flutter_tab_indicator_styler)
+[![Awesome Flutter](https://img.shields.io/badge/Awesome-Flutter-blue.svg?longCache=true&style=flat-square)]()
+[![Awesome Flutter](https://img.shields.io/badge/Platform-Android_iOS-blue.svg?longCache=true&style=flat-square)]()
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
+
+<p align="center">
+  <img width="460"  src="https://raw.githubusercontent.com/flutter-fast-kit/tab_indicator_styler/master/images/tab_styler_logo.png">
+</p>
 
 Add beautiful and trending tab indicators directly to your default Flutter TabBar.
 
@@ -16,7 +21,7 @@ Add beautiful and trending tab indicators directly to your default Flutter TabBa
 ## Demo
 
 <p align="center">
-  <img src="https://github.com/adar2378/tab_indicator_styler/raw/master/images/demo.gif" height="480"> 
+  <img src="https://raw.githubusercontent.com/flutter-fast-kit/tab_indicator_styler/master/images/demo.gif" height="480"> 
 </p>
 
 ## Styles
